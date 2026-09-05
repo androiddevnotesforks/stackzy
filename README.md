@@ -1,5 +1,7 @@
 # 🚀 stackzy
 
+![](https://img.shields.io/badge/%23No_AI_used-00000)
+
 ![](https://i.imgur.com/wxn30fq.png)
 
 [comment]: <> (![latestVersion]&#40;https://img.shields.io/github/v/release/theapache64/stackzy&#41;)
